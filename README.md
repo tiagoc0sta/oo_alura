@@ -19,8 +19,8 @@
 - Using Properties
 - Private and Static Methods
 ## Demo 
-![WhatsApp Image 2023-07-31 at 5 46 24 PM](https://github.com/tiagoc0sta/oo_alura/assets/63982700/c59acb91-462c-40c0-95fe-b393e3ee3d6d)
 
+![WhatsApp Image 2023-07-31 at 5 46 24 PM](https://github.com/tiagoc0sta/oo_alura/assets/63982700/73556d34-ac2a-4096-be2d-31a435157f9c)
 
 ## Lessons Learned 
 During the course "Python: Understanding Object Oriented," I gained a comprehensive understanding of object-oriented programming (OOP) in Python. OOP is a fundamental programming paradigm that allows me to design and structure my code more effectively. Here are the key takeaways from the course:
@@ -55,5 +55,6 @@ During the course "Python: Understanding Object Oriented," I gained a comprehens
 The course "Python: Understanding Object Oriented" has significantly improved my grasp of object-oriented programming in Python. I now feel confident in designing and implementing robust and modular code using classes and objects. The concepts of encapsulation, properties, private, and static methods have empowered me to create more organized and maintainable codebases.
 
 With this newfound knowledge, I am excited to take on more complex projects, leverage OOP design patterns, and continue exploring advanced Python topics. Object-oriented programming is a powerful paradigm, and I am eager to unlock its full potential in my future coding endeavors.
+
 
 Happy coding! 🚀🐍
